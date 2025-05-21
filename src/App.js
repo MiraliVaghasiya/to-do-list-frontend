@@ -9,7 +9,7 @@ import {
   verticalListSortingStrategy,
 } from "@dnd-kit/sortable";
 
-const API_URL = "https://to-do-list-backend-eight.vercel.app/tasks";
+const API_URL = "https://to-do-list-backend-eta.vercel.app/tasks";
 
 function App() {
   const [tasks, setTasks] = useState([]);
